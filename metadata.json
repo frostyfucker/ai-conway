@@ -1,0 +1,5 @@
+{
+  "name": "Conway's Game of Life: AI Battle",
+  "description": "A simulation of Conway's Game of Life where two competing Gemini-powered AI agents place patterns on the grid, trying to dominate the board based on game theory principles.",
+  "requestFramePermissions": []
+}
